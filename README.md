@@ -13,6 +13,6 @@
 [![](https://visitcount.itsvg.in/api?id=e277&icon=2&color=11)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/proximity212) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ezramuir12?country.x=JM&locale.x=en_US)
 
   
