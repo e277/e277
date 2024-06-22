@@ -7,7 +7,7 @@ These are some of the technologies and tools that I work with
 ![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=black)
+![Laravel](https://img.shields.io/badge/laravel-black.svg?style=for-the-badge&logo=laravel&logoColor=red)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
