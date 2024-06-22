@@ -33,14 +33,14 @@ These are some of the technologies and tools that I work with
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira)
+![BitBucket](https://img.shields.io/badge/-BitBucket-2496ED?style=for-the-badge&logo=bitbucket)
+![JIRA](https://img.shields.io/badge/-JIRA-2496ED?style=for-the-badge&logo=jira)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### IDEs
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-%2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-%23777BB4.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
