@@ -36,7 +36,7 @@ These are some of the technologies and tools that I work with
 ![BitBucket](https://img.shields.io/badge/-BitBucket-2496ED?style=for-the-badge&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-2496ED?style=for-the-badge&logo=jira)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 #### IDEs
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-black?style=for-the-badge&logo=intellij&logoColor=white)
