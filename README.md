@@ -3,7 +3,7 @@
 These are some of the technologies and tools that I work with:
 
 Backend: 
-![Java](https://img.shields.io/badge/java-%007396.svg?style=for-the-badge&logo=java)
+![Java](https://img.shields.io/badge/java-%007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/gpring-%6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%1CA5E3.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
