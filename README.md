@@ -3,9 +3,9 @@
 These are some of the technologies and tools that I work with
 
 #### Backend
-![Java](https://img.shields.io/badge/java-%6DB33A.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%6DB33A.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-%1CA5E3.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
@@ -15,8 +15,8 @@ These are some of the technologies and tools that I work with
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![ReactJS](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/Next-DD0031?style=for-the-badge&logo=next)
+![ReactJS](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next)
 
 #### Database
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
