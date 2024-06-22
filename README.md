@@ -5,7 +5,7 @@ These are some of the technologies and tools that I work with:
 Backend: 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/-python-E0234E?style=flat-square&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/python-E0234E?style=flat-square&logo=python&logoColor=blue)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
